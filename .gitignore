@@ -1,0 +1,59 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Java
+*.class
+
+# Logs
+*.log
+logs/
+
+# IDE Files
+.idea/
+.vscode/
+*.iml
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+.springBeans
+
+# Build Files
+build/
+
+# Temporary Files
+tmp/
+temp/
+
+# Environment Files
+.env
+
+# IntelliJ
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+
+# VS Code
+.history/
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Docker
+*.tar
+
+# Kubernetes
+*.yaml.bak
