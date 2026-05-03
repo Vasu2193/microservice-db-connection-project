@@ -1,0 +1,11 @@
+.git
+.gitignore
+.idea
+.vscode
+README.md
+.git
+.idea
+.vscode
+*.log
+Dockerfile
+README.md
